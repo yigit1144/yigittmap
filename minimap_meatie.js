@@ -3,8 +3,8 @@
 // @name         YzMap
 // @namespace    http://tampermonkey.net/
 // @version      1.7.2
-// @description  -
-// @author       meatie
+// @description  YellowZone Minimap
+// @author       yigitt
 // @match        https://pixelzone.io/*
 // @homepage     https://github.com/yigit1144/yigittmap
 // @updateURL    https://raw.githubusercontent.com/yigit1144/yigittmap/master/minimap_meatie.js
