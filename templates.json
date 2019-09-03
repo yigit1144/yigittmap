@@ -5,8 +5,19 @@
   "x": 2507,  "y": -987,
   "width": 182, "height": 133
   }
+ 
+ ,"yellowzone": {
+  "name": "map.png",
+  "x": 502,  "y": 701,
+  "width": 511, "height": 281
+}
 
 
 
 
 }
+
+
+
+
+
